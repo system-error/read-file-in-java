@@ -1,0 +1,6 @@
+City,Year,Sport,Discipline,Event,Athlete,Gender,Country_Code,Country,Event_gender,Medal
+Montreal,1976,Aquatics,Diving,3m springboard,"KÖHLER, Christa",Women,GDR,East Germany,W,Silver
+Montreal,1976,Aquatics,Diving,3m springboard,"BOGGS, Philip George",Men,USA,United States,M,Gold
+Montreal,1976,Aquatics,Swimming,200m butterfly,"GREGG, Steven Garrett",Men,USA,United States,M,Silver
+Montreal,1976,Aquatics,Swimming,400m individual medley,"STRACHAN, Rodney",Men,USA,United States,M,Gold
+Montreal,1976,Aquatics,Swimming,200m backstroke,"HARRIGAN, Daniel Lee",Men,USA,United States,M,Bronze
